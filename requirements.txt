@@ -1,2 +1,2 @@
 jupyter
-matpl
+matplotli
