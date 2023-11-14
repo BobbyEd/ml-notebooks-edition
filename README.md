@@ -1,4 +1,6 @@
 ML Notebooks Edition
 ==========================
 
-Welcome to the space for experimenting and testing machine learning application
+Welcome to the space for experimenting and testing machine learning applications.
+
+Set
