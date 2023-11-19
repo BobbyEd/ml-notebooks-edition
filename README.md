@@ -6,4 +6,4 @@ Welcome to the space for experimenting and testing machine learning applications
 Setup
 -----
 
-To ge
+To get sta
