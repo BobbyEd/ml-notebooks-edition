@@ -8,4 +8,4 @@ Setup
 
 To get started, install the necessary dependencies:
 
-```
+```bash
