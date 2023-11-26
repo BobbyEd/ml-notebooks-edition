@@ -9,4 +9,4 @@ Setup
 To get started, install the necessary dependencies:
 
 ```bash
-python3 -m venv 
+python3 -m venv ve
