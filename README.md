@@ -10,4 +10,5 @@ To get started, install the necessary dependencies:
 
 ```bash
 python3 -m venv venv
-. venv/bin/act
+. venv/bin/activate
+pi
