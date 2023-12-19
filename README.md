@@ -16,4 +16,5 @@ pip install -r requirements.txt
 
 To run the notebooks:
 
-```bas
+```bash
+. 
