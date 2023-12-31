@@ -17,4 +17,4 @@ pip install -r requirements.txt
 To run the notebooks:
 
 ```bash
-. venv/bin/activ
+. venv/bin/activat
