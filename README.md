@@ -17,4 +17,5 @@ pip install -r requirements.txt
 To run the notebooks:
 
 ```bash
-. venv/bin/activat
+. venv/bin/activate
+jupyte
