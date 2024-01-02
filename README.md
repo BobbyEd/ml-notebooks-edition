@@ -19,3 +19,5 @@ To run the notebooks:
 ```bash
 . venv/bin/activate
 jupyter notebook .
+```
+
