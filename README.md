@@ -21,4 +21,4 @@ To run the notebooks:
 jupyter notebook .
 ```
 
-If you want to exclude
+If you want to exclude note
