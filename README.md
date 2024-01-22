@@ -21,4 +21,4 @@ To run the notebooks:
 jupyter notebook .
 ```
 
-If you want to exclude notebook outputs, here is a guid
+If you want to exclude notebook outputs, here is a guide on 
