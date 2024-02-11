@@ -21,4 +21,4 @@ To run the notebooks:
 jupyter notebook .
 ```
 
-If you want to exclude notebook outputs, here is a guide on how to set up Git to do so: [i
+If you want to exclude notebook outputs, here is a guide on how to set up Git to do so: [ipynb_out
