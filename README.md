@@ -22,3 +22,5 @@ jupyter notebook .
 ```
 
 If you want to exclude notebook outputs, here is a guide on how to set up Git to do so: [ipynb_output_filter](https://github.com/toobaz/ipynb_output_filter).
+
+No
