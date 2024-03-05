@@ -25,4 +25,4 @@ If you want to exclude notebook outputs, here is a guide on how to set up Git to
 
 Notes
 -----
-For instanc
+For instance, you c
