@@ -25,4 +25,4 @@ If you want to exclude notebook outputs, here is a guide on how to set up Git to
 
 Notes
 -----
-For instance, you can check out the results of [color-clustering.ipynb](color-clustering.ipynb) at this blog: [
+For instance, you can check out the results of [color-clustering.ipynb](color-clustering.ipynb) at this blog: [htt
