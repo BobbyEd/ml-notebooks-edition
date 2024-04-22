@@ -27,4 +27,4 @@ Notes
 -----
 For instance, you can check out the results of [color-clustering.ipynb](color-clustering.ipynb) at this blog: [https://tberg.dk/post/determining-dominant-colors](https://tberg.dk/post/determining-dominant-colors/).
 
-This reposit
+This repository i
